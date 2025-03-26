@@ -32,4 +32,4 @@ If you find this work useful in your research, please star our repository and co
 
 ## Contact
 
-For technical questions, please contact maregu assefa at: ```maregu.habtie@ku.ac.ae```.
+For technical questions, feel free to contact via: ```maregu.habtie@ku.ac.ae```.
